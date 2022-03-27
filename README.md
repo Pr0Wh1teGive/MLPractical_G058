@@ -8,9 +8,9 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 - notebooks: any util jupyter notebooks
 
 ### Project Members
-- Weichen ZHU s2182537
 - Zhe HUA
 - Shaosong Lin
+- Weichen ZHU s2182537
 
 ### Frequently Used Links
 - PaddleSeg: https://github.com/PaddlePaddle/PaddleSeg
