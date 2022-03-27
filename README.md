@@ -13,7 +13,7 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 - Shaosong Lin
 - Weichen ZHU s2182537
 
-### Frequently Used Links
+### Useful Links
 - PaddleSeg: https://github.com/PaddlePaddle/PaddleSeg
 - PaddlePaddle Visual DL: https://github.com/PaddlePaddle/VisualDL
 - Google Docs: https://docs.google.com/document/d/1qcBF1_WSlivdOoOrA4WrDQ5BSItnk4nqhtnqKD-DMW8/edit
