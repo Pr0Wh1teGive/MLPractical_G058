@@ -1,4 +1,7 @@
 # MLPractical_G058
+This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the context of semantic segmentation.
+
+# Project Structure
 - cluster_scripts: submit jobs to MLP cluster
 - configs: modified configs for training
 - notebooks: any util jupyter notebooks
