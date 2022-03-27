@@ -5,12 +5,13 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 ### Project Structure
 - cluster_scripts: submit jobs to MLP cluster
 - configs: modified configs for training
-- notebooks: any util jupyter notebooks
+- experiment_results: output after training
+- tools: any util jupyter notebooks
 
 ### Project Members
-- Weichen ZHU s2182537
 - Zhe HUA
 - Shaosong Lin
+- Weichen ZHU s2182537
 
 ### Frequently Used Links
 - PaddleSeg: https://github.com/PaddlePaddle/PaddleSeg
