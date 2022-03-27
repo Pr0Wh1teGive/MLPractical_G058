@@ -1,0 +1,2 @@
+- logs: vdl logs after training
+- csvs: training loss records
