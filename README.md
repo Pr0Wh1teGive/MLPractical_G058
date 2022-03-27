@@ -1,2 +1,4 @@
 # MLPractical_G058
-For UoE Machine Learning Practical Coursework 3
+- cluster_scripts: submit jobs to MLP cluster
+- configs: modified configs for training
+- notebooks: any util jupyter notebooks
