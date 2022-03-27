@@ -3,10 +3,10 @@
 This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the context of semantic segmentation.
 
 ### Project Structure
-- cluster_scripts: submit jobs to MLP cluster
-- configs: modified configs for training
-- experiment_results: output after training
-- tools: utility scripts
+- cluster_scripts/: submit jobs to MLP cluster
+- configs/: modified configs for training
+- experiment_results/: output after training
+- tools/: utility scripts
 
 ### Project Members
 - Zhe HUA
