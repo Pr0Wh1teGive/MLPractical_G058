@@ -6,7 +6,7 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 - cluster_scripts: submit jobs to MLP cluster
 - configs: modified configs for training
 - experiment_results: output after training
-- tools: any util jupyter notebooks
+- tools: utility scripts
 
 ### Project Members
 - Zhe HUA
