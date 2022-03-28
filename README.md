@@ -26,3 +26,6 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 4. Conclusions
 5. Collect STDC results of cityscapes
 6. Evaluate Inference Speed
+7. Get Parameter Numbers
+8. BisenetV2 modify
+9. Unify size before evaluate fps
