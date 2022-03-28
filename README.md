@@ -19,13 +19,13 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 - Google Docs: https://docs.google.com/document/d/1qcBF1_WSlivdOoOrA4WrDQ5BSItnk4nqhtnqKD-DMW8/edit
 - Overleaf: https://www.overleaf.com/project/620141cdb6c3d1102b42e613
 
-### TODOs
-1. Introduction & Motivation
-2. Related Work
-3. Experiments
-4. Conclusions
-5. Collect STDC results of cityscapes
-6. Evaluate Inference Speed
-7. Get Parameter Numbers
-8. BisenetV2 modify
-9. Unify size before evaluate fps
+
+### TODO
+- [ ] Abstract
+- [ ] Introduction
+- [ ] Motivation  
+- [ ] Experiment Results
+- [ ] Conclusions
+- [ ] Collect STDC results of cityscapes
+- [ ] Evaluate Inference Speed with Equal Image Size
+- [ ] Get Parameter Num & GFLOPS
