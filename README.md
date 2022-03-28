@@ -10,7 +10,7 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 
 ### Project Members
 - Zhe HUA
-- Shaosong Lin
+- Shaosong LIN
 - Weichen ZHU s2182537
 
 ### Useful Links
@@ -29,3 +29,7 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 - [ ] Collect STDC results of cityscapes
 - [ ] Evaluate Inference Speed with Equal Image Size
 - [ ] Get Parameter Num & GFLOPS
+- [ ] Two figures of training loss (2 datasets), TAB MIOU, ACC
+- [ ] Params/FPS
+- [ ] Hyperparameters (optimizer/lr_scheduler/resolution)
+- [ ] BiseNetV2 L?
