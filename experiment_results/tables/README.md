@@ -1,4 +1,11 @@
-# Table Preview
+## Dataset Overview for Benchmark
+### Cityscapes:
+- Num Images: 500
+- Input Resolution: 2048x1024
+### PascalVOC:
+- Num Images: 1449
+- Input Resolution: 500x375
+## Table Preview
 ### Model Size & FPS
 ![J~I}2ESXU 40(M7NQB_@%03](https://user-images.githubusercontent.com/91378031/160525269-3a5cebab-a226-440f-bdd6-a9174b6a8191.png)
 ![L25X%)I$NEKCT0UH0{D{ICL](https://user-images.githubusercontent.com/91378031/160525279-8a18854a-170b-4871-bbbf-88adb16b01a2.png)
