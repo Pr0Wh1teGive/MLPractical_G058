@@ -26,10 +26,10 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 - [ ] Motivation  
 - [ ] Experiment Results
 - [ ] Conclusions
-- [ ] Collect STDC results of cityscapes
-- [ ] Evaluate Inference Speed with Equal Image Size
-- [ ] Get Parameter Num & GFLOPS
-- [ ] Two figures of training loss (2 datasets), TAB MIOU, ACC
-- [ ] Params/FPS
-- [ ] Hyperparameters (optimizer/lr_scheduler/resolution)
-- [ ] BiseNetV2 L?
+- [x] Collect STDC results of cityscapes
+- [x] Evaluate Inference Speed with Equal Image Size
+- [x] Get Parameter Num & GFLOPS
+- [x] Two figures of training loss (2 datasets), TAB MIOU, ACC
+- [x] Params/FPS
+- [x] Hyperparameters (optimizer/lr_scheduler/resolution)
+- [x] BiseNetV2 L?
