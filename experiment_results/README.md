@@ -1,2 +1,4 @@
-- logs: vdl logs after training
-- csvs: training loss records
+- logs\: vdl logs after training
+- csvs\: training loss records
+- tables\: LaTex file for 4 tables of model size/fps and performance in cityscapes/voc
+- figures\: PDF files for training loss in cityscapes/voc 
