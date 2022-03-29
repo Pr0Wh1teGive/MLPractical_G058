@@ -1,2 +1,4 @@
-- logs: vdl logs after training
-- csvs: training loss records
+Curves are smoothed by Savitzky–Golay filter:
+- Order_x: curves fit by order x polynomial func
+
+Just pick a couple of figures you prefer : )
