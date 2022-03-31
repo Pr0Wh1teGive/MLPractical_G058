@@ -23,7 +23,8 @@ This project is an analysis of BisenetV1, BisenetV2 & STDC2-Seg50 within the con
 ### TODO
 - [ ] Abstract
 - [ ] Introduction
-- [ ] Motivation  
+- [ ] Motivation
+- [x] Related Work  
 - [ ] Experiment Results
 - [ ] Conclusions
 - [x] Collect STDC results of cityscapes
